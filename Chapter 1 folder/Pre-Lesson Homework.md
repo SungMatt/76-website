@@ -2,7 +2,7 @@
 label: Pre-Lesson Homework
 layout: default
 icon: ":spiral_note_pad:"
-order: 10
+order: -1
 author:
   - name: Matthew Sung
     email: matthew.sung20@sps.nus.edu.sg
@@ -11,7 +11,8 @@ author:
 description: "Chapter 1 : Discovering our Universe"
 ---
 
-
+## 1.1 Pre-Lesson Homework
+---
 ### 1.1.1 Terminologies
 There are many terminologies peculiar to the field of astronomy. It
 is useful to get yourself familiar with them before going deep into
