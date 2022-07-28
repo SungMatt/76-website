@@ -24,12 +24,13 @@ The notes for The Universe are also available for download.
 
 ## Assignments
 
-| Document         | Link |
-|------------------|------|
-| Telescope Manual | Link |
-|                  |      |
-|                  |      |
-|                  |      |
+| Assignment   | Link                                  |
+|--------------|---------------------------------------|
+| Assignment 0 | Murderous Mathematics                 |
+| Assignment 1 | Jupiter's Moon and the Speed of Light |
+| Assignment 2 | Three Body Problem                    |
+| Assignment 3 | Distance to M100                      |
+| Assignment 4 | Cosmological Models                   |
 
 
 ## Manuals and Addendums

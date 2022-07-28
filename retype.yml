@@ -14,6 +14,7 @@ links:
 - text: Photo Submissions
   link: https://forms.gle/94mhSjf6xP9nPZ5y5
   icon: ":milky_way:"
-
+exclude:
+  - "Archives"
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
