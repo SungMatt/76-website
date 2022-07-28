@@ -1,4 +1,4 @@
-icon: gear
-expanded: true
+icon: ":rocket:"
+expanded: false
 order: 100
-label: Chapter 1 folder
+label: Chapter 1
