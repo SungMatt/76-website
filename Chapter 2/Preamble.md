@@ -35,7 +35,7 @@ problem using Newton's laws.
 
 ### Learning Flow
 
-Before the lecture, you will read section \ref{sec:initialCon} to
+Before the lecture, you will read section [2.1](</Chapter 2/the apple>) to
 learn about how initial conditions affects motion of objects under
 gravitation. Most of the lecture (in week 2) will be spent on differential
 equations where we will first solve a few cases by hand,(analytically)

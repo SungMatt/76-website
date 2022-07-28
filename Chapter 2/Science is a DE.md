@@ -115,7 +115,7 @@ N_{0} & =e^{c}e^{0}=e^{c}\\
 \Rightarrow N & =N_{0}e^{-kt}
 \end{align*}
 $$
-Go to \textcolor{red}{Activity 1}.
+Go to [Activity 1](<Chapter 2/In-Class Activities>).
 
 #### 2.2.2.2 Case 2: Constant force on particle
 
@@ -287,7 +287,7 @@ J & =\frac{1}{k_{1}}\frac{dR}{dt}=-\frac{1}{k_{1}}R_{0}\sqrt{k_{1}k_{2}}\sin(\sq
 \end{align*}
 $$
 
-Go to \textcolor{red}{Activity 2}.
+Go to [Activity 2](<Chapter 2/In-Class Activities>).
 
 ### 2.2.3 Solving DEs Numerically
 
@@ -375,8 +375,9 @@ J_{i+1} & =J_{i}+\Delta J=J_{i}-k_{2}R_{i+1}\Delta t
 \end{align*}
 $$
 
-[^1]: A. Cromer, Stable solutions using the Euler Approximation, American
+[^1]:  A. Cromer, Stable solutions using the Euler Approximation, American
 Journal of Physics, 49, 455 (1981)
-Note the difference with the original Euler method? 
 
-Go to \textcolor{red}{Activity 3}.
+Note the difference with the original Euler method?
+
+Go to [Activity 3](<Chapter 2/In-Class Activities>).

@@ -71,20 +71,24 @@ $$
 
 Applying Euler's scheme for solving differential equation numerically 
 
+$$
 \begin{align*}
 d{\bf p} & ={\bf F}dt\\
 {\bf p}_{i+1} & ={\bf p}_{i}+d{\bf p}\\
  & ={\bf p}_{i}+{\bf F}_{i}dt
 \end{align*}
+$$
 
 Relationship between momentum and position vector is given by ${\bf p}=m{\displaystyle \frac{d{\bf r}}{dt}}$
 
 Applying Euler's scheme for solving differential equation numerically 
 
+$$
 \begin{align*}
 d{\bf r} & =\\
 {\bf r}_{i+1} & ={\bf r}_{i}+d{\bf r}\\
  & =
 \end{align*}
+$$
 
-Go to \textcolor{red}{Activity 4}.
+Go to [Activity 4](<Chapter 2/In-Class Activities>).

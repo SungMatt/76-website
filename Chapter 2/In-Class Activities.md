@@ -24,10 +24,12 @@ Observe the decay of beer foam and think of science.
 For some chosen values of $R_{0},k_{1}$ and $k_{2}$, plot $R(t)$
 and $J(t)$ on the same graph on Desmos.
 
+$$
 \begin{align*}
 R & =R_{0}\cos(\sqrt{k_{1}k_{2}}t)\\
 J & =-\sqrt{\frac{k_{2}}{k_{1}}}R_{0}\sin(\sqrt{k_{1}k_{2}}t)
 \end{align*}
+$$
 
 Open a new Desmos window and plot $R$ vs $J$. 
 

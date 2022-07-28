@@ -23,13 +23,8 @@ In the modern day, if you ask a mathematician/physicist why the apple
 and the moon follow different paths despite both being acted by the
 same type of force, you will probably get a reply like: 
 
-$$
-\begin{quotation}
-''Oh yea gravity is Universal! It acts in the same way for both the
-apple and the Moon. It is just that the **initial conditions**
-were different, hence different paths exhibited.''
-\end{quotation}
-$$
+
+> ''Oh yea gravity is Universal! It acts in the same way for both the apple and the Moon. It is just that the **initial conditions** were different, hence different paths exhibited.''
 
 The reply probably would not enlighten many people. To visualise and
 make sense of the above, I'll borrow the story used by [Leonhard Euler](https://en.wikipedia.org/wiki/Leonhard_Euler)(1707-1783)
